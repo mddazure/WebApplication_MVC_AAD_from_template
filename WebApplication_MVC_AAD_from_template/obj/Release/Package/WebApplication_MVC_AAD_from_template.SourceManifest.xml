@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\madedroo\OneDrive - Microsoft\Source\Repos\WebApplication_MVC_AAD_from_template\WebApplication_MVC_AAD_from_template\obj\Release\Package\PackageTmp" />
+  <setAcl path="C:\Users\madedroo\OneDrive - Microsoft\Source\Repos\WebApplication_MVC_AAD_from_template\WebApplication_MVC_AAD_from_template\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="C:\Users\madedroo\OneDrive - Microsoft\Source\Repos\WebApplication_MVC_AAD_from_template\WebApplication_MVC_AAD_from_template\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>
